@@ -1,0 +1,3 @@
+[submodule "rules"]
+	path = rules
+	url = https://github.com/2025Emma/vibe-coding-cn.git
