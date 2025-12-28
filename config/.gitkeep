@@ -1,0 +1,9 @@
+# 配置文件目录
+# 
+# 包含以下配置文件:
+# - watchlist.yaml    自选股列表
+# - indicators.yaml   技术指标参数
+# - alerts.yaml       信号阈值配置
+# - report.yaml       报告模块配置
+# - secrets.yaml      API Keys (已加入 .gitignore)
+
